@@ -1,0 +1,31 @@
+
+
+
+
+
+* {
+    background-color:beige;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
+h1  { 
+    text-align: center;
+    color: black;
+    background-color: lightcoral;
+    border: solid black;
+    
+}
+table {
+    border: solid black;
+}
+
+td, th, table {
+    border: solid black;
+    background-color: blanchedalmond;
+    
+
+}
+
+
+
+
